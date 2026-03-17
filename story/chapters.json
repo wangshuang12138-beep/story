@@ -1,0 +1,16 @@
+{
+  "chapters": [
+    {
+      "day": 1,
+      "date": "2026-03-16",
+      "title": "起点",
+      "status": "published"
+    },
+    {
+      "day": 2,
+      "date": "2026-03-17",
+      "title": "没有闹钟的早晨",
+      "status": "published"
+    }
+  ]
+}

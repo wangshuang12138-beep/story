@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 超极简: 只有 xca 字母，特殊排版 -->
+  <rect width="200" height="200" fill="#fff"/>
+  
+  <text x="100" y="115" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="300" fill="#1a1a1a" letter-spacing="-2">xca</text>
+  
+  <!-- 一个微妙的装饰：音调符号 -->
+  <circle cx="128" cy="85" r="2.5" fill="#1a1a1a"/>
+</svg>

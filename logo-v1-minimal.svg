@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 极简字母: xca -->
+  <rect width="200" height="200" fill="#0a0a0a"/>
+  
+  <!-- x: 交叉线条 -->
+  <line x1="40" y1="60" x2="80" y2="100" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <line x1="80" y1="60" x2="40" y2="100" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- c: 开口圆 -->
+  <path d="M 110 60 A 20 20 0 1 0 110 100" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- a: 简化 -->
+  <circle cx="155" cy="80" r="18" fill="none" stroke="#fff" stroke-width="6"/>
+  <line x1="170" y1="95" x2="170" y2="55" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- 点缀：一个小的音波或口音标记 -->
+  <circle cx="100" cy="140" r="3" fill="#666"/>
+  <circle cx="115" cy="145" r="2" fill="#444"/>
+</svg>
