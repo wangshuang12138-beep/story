@@ -18,6 +18,9 @@ SOUL.md
 TOOLS.md
 USER.md
 
+# 重复的story子目录（根目录已有这些文件）
+story/
+
 # 其他临时/配置文件
 decision-dice-deploy.yml
 logo-*.svg
