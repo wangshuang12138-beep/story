@@ -1,0 +1,21 @@
+# 防止其他项目目录被提交到 story 仓库
+# 这些目录是独立的仓库，应该在各自目录下管理
+
+# 其他项目仓库
+decision-dice/
+habit-tracker/
+music-daily/
+openclaw-daily/
+xca-blog/
+
+# 本地工作区文件（不属于任何仓库）
+memory/
+*.md
+!story.md
+!chapters.json
+!README.md
+!REPOSITORIES.md
+
+# 其他
+.DS_Store
+*.log
