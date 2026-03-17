@@ -1,21 +1,26 @@
-# 防止其他项目目录被提交到 story 仓库
-# 这些目录是独立的仓库，应该在各自目录下管理
+# Story 仓库 .gitignore
+# 只保留故事核心文件，排除所有本地工作区和其他项目文件
 
-# 其他项目仓库
+# 其他项目仓库目录
 decision-dice/
 habit-tracker/
 music-daily/
 openclaw-daily/
 xca-blog/
 
-# 本地工作区文件（不属于任何仓库）
+# 本地工作区文件（OpenClaw agent工作文件）
 memory/
-*.md
-!story.md
-!chapters.json
-!README.md
-!REPOSITORIES.md
+AGENTS.md
+BOOTSTRAP.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
 
-# 其他
+# 其他临时/配置文件
+decision-dice-deploy.yml
+logo-*.svg
+1
 .DS_Store
 *.log
