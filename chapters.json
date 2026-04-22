@@ -131,6 +131,12 @@
       "date": "2026-04-06",
       "title": "阴天",
       "status": "published"
+    },
+    {
+      "day": 38,
+      "date": "2026-04-22",
+      "title": "不怕千万人阻挡",
+      "status": "published"
     }
   ]
 }
