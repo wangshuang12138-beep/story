@@ -305,6 +305,18 @@
       "date": "2026-05-24",
       "title": "理想三旬",
       "status": "published"
+    },
+    {
+      "day": 69,
+      "date": "2026-05-25",
+      "title": "盛夏的果实",
+      "status": "published"
+    },
+    {
+      "day": 70,
+      "date": "2026-05-26",
+      "title": "山川湖海与昼夜厨房",
+      "status": "published"
     }
   ]
 }
