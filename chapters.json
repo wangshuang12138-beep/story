@@ -391,9 +391,21 @@
       "status": "published"
     },
     {
+      "day": 83,
+      "date": "2026-06-08",
+      "title": "像我这样的人",
+      "status": "published"
+    },
+    {
       "day": 84,
       "date": "2026-06-09",
       "title": "以为能抓住夏天",
+      "status": "published"
+    },
+    {
+      "day": 85,
+      "date": "2026-06-10",
+      "title": "晴天",
       "status": "published"
     }
   ]
