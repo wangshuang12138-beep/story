@@ -407,6 +407,12 @@
       "date": "2026-06-10",
       "title": "晴天",
       "status": "published"
+    },
+    {
+      "day": 86,
+      "date": "2026-06-11",
+      "title": "历历万乡",
+      "status": "published"
     }
   ]
 }
