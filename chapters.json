@@ -301,6 +301,12 @@
       "status": "published"
     },
     {
+      "day": 67,
+      "date": "2026-05-23",
+      "title": "风吹麦浪",
+      "status": "published"
+    },
+    {
       "day": 68,
       "date": "2026-05-24",
       "title": "理想三旬",
@@ -439,9 +445,21 @@
       "status": "published"
     },
     {
+      "day": 91,
+      "date": "2026-06-16",
+      "title": "我记得",
+      "status": "published"
+    },
+    {
       "day": 92,
       "date": "2026-06-17",
       "title": "起风了",
+      "status": "published"
+    },
+    {
+      "day": 93,
+      "date": "2026-06-18",
+      "title": "漫长的路上",
       "status": "published"
     }
   ]
